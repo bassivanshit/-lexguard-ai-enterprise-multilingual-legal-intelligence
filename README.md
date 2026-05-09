@@ -1,4 +1,4 @@
-## ⚖️ **Legal-Linguist: LexGuaed-AI-Enterprise-Mulitilingual-Legal-Intelligence** 🤖
+<img width="1091" height="691" alt="image" src="https://github.com/user-attachments/assets/f5bc148f-ae26-42f6-87a0-5868d07d36d6" />## ⚖️ **Legal-Linguist: LexGuaed-AI-Enterprise-Mulitilingual-Legal-Intelligence** 🤖
 
 > **Transforming Legal Complexity into Actionable Intelligence.** This system automates the analysis of the **CUAD (Contract Understanding Atticus Dataset)** using a sophisticated multi-agent state machine.
 
@@ -62,6 +62,9 @@ The system utilizes a **StateGraph** to manage the lifecycle of a legal query th
 - **app.py** — Streamlit frontend for real-time query visualization.
 - **qdrant_production_db/** — Local persistent vector database.
 - **qdrant_backups/** — Disaster recovery storage.
+
+<img width="1091" height="691" alt="image" src="https://github.com/user-attachments/assets/c0c311b1-58a4-43ff-be26-d3b8955d8ecb" />
+
 
 ---
 
