@@ -1,3 +1,18 @@
-git clone [https://github.com/your-username/legal-linguist.git](https://github.com/your-username/legal-linguist.git)
-cd legal-linguist
-pip install -r requirements.txt
+# Python Environment
+__pycache__/
+*.py[cod]
+.env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Large Data & DBs
+.cache/
+CUAD_v1/
+qdrant_production_db/
+qdrant_backups/
+
+# Logs
+*.log
+disaster_recovery.log
