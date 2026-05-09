@@ -1,4 +1,4 @@
- ⚖️ **Legal-Linguist: LexGuaed-AI-Enterprise-Mulitilingual-Lega-Intelligence** 🤖
+## ⚖️ **Legal-Linguist: LexGuaed-AI-Enterprise-Mulitilingual-Legal-Intelligence** 🤖
 
 > **Transforming Legal Complexity into Actionable Intelligence.** This system automates the analysis of the **CUAD (Contract Understanding Atticus Dataset)** using a sophisticated multi-agent state machine.
 
